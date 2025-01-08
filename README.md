@@ -1,10 +1,5 @@
 #
 ![image](https://github.com/Vinissil/Challenge-front-end-HC/blob/main/img/Logo.svg)
-🚀 Challenge-Front-end-HC 🏥💻
-License 📜
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-Welcome to the Front-end Project!
 
 
 🚀 Challenge-Front-end-HC 🏥💻
